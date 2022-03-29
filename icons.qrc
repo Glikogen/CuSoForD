@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IconForCreatingModel.png</file>
+        <file>PositionElementsBlock.png</file>
+        <file>DataReciveBlock.png</file>
+        <file>DeviceChoiceBlock.png</file>
+        <file>iconForConnectSett.png</file>
+    </qresource>
+</RCC>

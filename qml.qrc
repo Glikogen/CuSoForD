@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BaseWindow.qml</file>
+        <file>CreatingModelArea.qml</file>
+        <file>ConnectionSettingsBlock.qml</file>
+        <file>ConstantStreamPanel.qml</file>
+        <file>RequestAnswerPanel.qml</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>
